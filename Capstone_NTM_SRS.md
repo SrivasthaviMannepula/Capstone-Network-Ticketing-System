@@ -16,40 +16,40 @@
 
 
 1. **Introduction**(#1-introduction)
-   1.1 Purpose
-   1.2 Scope
-   1.3 Definitions, Acronyms, and Abbreviations
-   1.4 References
-   1.5 Overview
+   - 1.1 Purpose
+   - 1.2 Scope
+   - 1.3 Definitions, Acronyms, and Abbreviations
+   - 1.4 References
+   - 1.5 Overview
 
 
 
 2. **Functional Requirements**
-   2.1 User Roles
-   2.2 User Authentication
-   2.3 Incident Logging
-   2.4 Network Element Selection
-   2.5 Related Components
-   2.6 Issue Reporting and Ticket Creation
-   2.7 Assignment Group Selection
-   2.8 Incident Creation
-   2.9 Incident Resolution
-   2.10 Root Cause Attribution
-   2.11 Issue Tracking
+   - 2.1 User Roles
+   - 2.2 User Authentication
+   - 2.3 Incident Logging
+   - 2.4 Network Element Selection
+   - 2.5 Related Components
+   - 2.6 Issue Reporting and Ticket Creation
+   - 2.7 Assignment Group Selection
+   - 2.8 Incident Creation
+   - 2.9 Incident Resolution
+   - 2.10 Root Cause Attribution
+   - 2.11 Issue Tracking
 
 
 
 3. **Non-Functional Requirements**
-   3.1 Performance
-   3.2 Security
-   3.3 Usability
+   - 3.1 Performance
+   - 3.2 Security
+   - 3.3 Usability
 
 
 
 4. **Technical Details**
-   4.1 Development Platform
-   4.2 Database
-   4.3 API
+   - 4.1 Development Platform
+   - 4.2 Database
+   - 4.3 API
 
 
 5. **References**
