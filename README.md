@@ -13,7 +13,7 @@ Capstone Project - Network Ticketing Management System
 - [ ] Documentation
 
 ## 3. Database Model Visualization
-- [ ] ER Diagram
+- [x] ER Diagram
 
 ## 4. Test Coverage
 - [ ] Reports
