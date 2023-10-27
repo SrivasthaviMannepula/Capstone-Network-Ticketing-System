@@ -13,7 +13,7 @@ Capstone Project - Network Ticketing Management System
 - [ ] Documentation
 
 ## 3. Database Model Visualization
-- [x] ER Diagram
+- [x] [ER Diagram](https://github.com/SrivasthaviMannepula/Capstone-Network-Ticketing-System/blob/main/capstone_ntm_ER.png)
 
 ## 4. Test Coverage
 - [ ] Reports
