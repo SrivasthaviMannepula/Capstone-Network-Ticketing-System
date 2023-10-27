@@ -19,4 +19,4 @@ Capstone Project - Network Ticketing Management System
 - [ ] Reports
 
 ## 5. Requirements
-- [x] SRS Documentation
+- [x] [SRS Documentation](https://github.com/SrivasthaviMannepula/Capstone-Network-Ticketing-System/blob/main/Capstone_NTM_SRS.md)
