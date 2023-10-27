@@ -19,4 +19,4 @@ Capstone Project - Network Ticketing Management System
 - [ ] Reports
 
 ## 5. Requirements
-- [ ] SRS Documentation
+- [x] SRS Documentation
